@@ -2,6 +2,8 @@
 
 > 用 8 个故事覆盖 80% 的行为面：每故事配三层追问链 + 30/90/180 秒三个版本 + 高危题模板。
 
+![面试陪练](./market/social-preview.png)
+
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-SKILL.md-111827)](./SKILL.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e)](./LICENSE)
 [![No deps](https://img.shields.io/badge/依赖-无-0ea5e9)](#)
@@ -96,6 +98,8 @@ interview-coach/
 └── examples/
     └── 01-star-story.md          # 完整案例：8 个故事 + 三层追问预案
 ```
+
+> `market/social-preview.png` 是本仓的社交预览图（1280×640），也用于 README 顶部与分享卡片。改文案后跑 `python ../make_previews.py --only interview-coach` 重新生成。
 
 ## 自定义
 
